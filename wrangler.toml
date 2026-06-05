@@ -1,0 +1,7 @@
+name = "hyundai-kia-connect-api"
+main = "src/index.ts"
+compatibility_date = "2024-05-29"
+
+[[kv_namespaces]]
+binding = "TOKEN_KV"
+id = "placeholder_kv_id"
